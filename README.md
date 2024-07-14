@@ -1,4 +1,4 @@
-#PointNet_modelnet
+PointNet_modelnet
 基于原作者yanx27的代码调试复现,原作者整合整个point的相关代码，([原作者网址](https://github.com/yanx27/Pointnet_Pointnet2_pytorch?tab=readme-ov-file))
 
 我单独将pointnet的代码筛选出来，并且成功复现
