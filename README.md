@@ -7,4 +7,4 @@
 
 关于PointNet的文献来源于 ([文献网址](https://arxiv.org/pdf/1612.00593))
 
-![classification Network](https://github.com/user-attachments/assets/54077d35-7a67-41ca-a59a-d9c00ee867f9)
+![classification Network](https://github.com/user-attachments/assets/fb97a61d-f148-4b24-a81f-5cda81c5887a)
