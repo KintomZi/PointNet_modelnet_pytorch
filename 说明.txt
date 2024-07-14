@@ -1,0 +1,4 @@
+(方法库)provider记载对点云的各种扰动方法
+(运行库)see_pth查看train_classification产生的参数文件
+(运行库)showPoint对运行离线数据.dat进行显示，也可直接对modelnet40_normal_resampled的原数据进行两种重采样结果的显示
+train_classification对modelnet40_normal_resampled数据集进行训练，
