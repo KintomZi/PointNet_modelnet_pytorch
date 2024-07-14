@@ -3,7 +3,7 @@
 
 我单独将pointnet的代码筛选出来，并且成功复现
 作者的modelnet的数据进行了一次预处理，所以从([modelnet官网](https://modelnet.cs.princeton.edu/))下载的数据是不能运行的.
-应该是原作者提供的斯坦福的数据(https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip)直接下载modelnet40_normal_resampled
+应该是([原作者提供的数据](https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip))直接下载modelnet40_normal_resampled
 
 关于PointNet的文献来源于 ([文献网址](https://arxiv.org/pdf/1612.00593))
 
