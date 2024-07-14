@@ -1,6 +1,5 @@
 """
-Author: Benny
-Date: Nov 2019
+测试训练结果的效果
 """
 from data_utils.ModelNetDataLoader import ModelNetDataLoader  # 导入数据加载器
 import argparse  # 解析命令行参数
