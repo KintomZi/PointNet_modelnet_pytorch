@@ -1,6 +1,5 @@
 """
-Author: Benny
-Date: Nov 2019
+训练模型
 """
 
 import os  # 导入操作系统模块
