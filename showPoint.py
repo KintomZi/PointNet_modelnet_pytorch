@@ -1,7 +1,8 @@
+# 基于open3d的可视化
 import open3d as o3d  # 绘图显示库
 import pickle  # 导入pickle模块，用于数据序列化和反序列化
-import numpy as np
-import multiprocessing as mp
+import numpy as np #导入数组库
+import multiprocessing as mp #导入多线程处理库
 
 
 def visualize_point_cloud(points: np, window_name: str, color: list, left: float, top: float):
