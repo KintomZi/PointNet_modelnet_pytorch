@@ -1,7 +1,5 @@
 '''
-@author: Xu Yan
-@file: ModelNet.py
-@time: 2021/3/19 15:51
+modelnet的预处理，进行重采样和标签绑定
 '''
 import os  # 导入操作系统模块
 import numpy as np  # 导入数值计算模块NumPy
