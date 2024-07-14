@@ -9,9 +9,9 @@ PointNet_modelnet
 
 
 下图是作者的思路流程图  
-![classification Network](https://github.com/user-attachments/assets/fb97a61d-f148-4b24-a81f-5cda81c5887a)
+<img src="https://github.com/user-attachments/assets/fb97a61d-f148-4b24-a81f-5cda81c5887a" width="300" height="200" />
 
 通过对代码的逐步研读，对作者的思路流程加以详细说明
-![classificationNetworkk](https://github.com/user-attachments/assets/4793dc97-e5d4-420d-8acd-6cc658849404){width: 80%}
+<img src="https://github.com/user-attachments/assets/f0d5ef61-6a45-4dbf-9235-fcc1e837d03c" width="300" height="200" />
 
 ![T-Net](https://github.com/user-attachments/assets/f0d5ef61-6a45-4dbf-9235-fcc1e837d03c)
